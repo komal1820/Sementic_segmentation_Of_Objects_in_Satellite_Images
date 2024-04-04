@@ -38,5 +38,5 @@ https://humansintheloop.org/resources/datasets/semantic-segmentation-dataset/
 
 # Published Paper:
 
-This project is based on a published paper. You can find the paper at [https://ieeexplore.ieee.org/document/9864504](url).
+I have publish this paper on IEEE. You can find the paper at [https://ieeexplore.ieee.org/document/9864504](url).
 
